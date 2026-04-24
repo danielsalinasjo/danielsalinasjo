@@ -1,16 +1,25 @@
-## Hi there 👋
+# Daniel Salinas Jove
 
-<!--
-**danielsalinasjo/danielsalinasjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer · .NET · C#  
+Santiago, Chile
 
-Here are some ideas to get you started:
+## Stack
+- **Backend:** .NET 9 / ASP.NET Web API / Clean Architecture / NodeJS
+- **DB:** SQL Server (performance tuning, stored procedures)
+- **Cloud:** AWS (Lambda, S3, DynamoDB) · Azure
+- **Integrations:** SAP RFC · REST APIs
+- **Learning:** Applied AI · Physics simulations · Game dev in C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Building enterprise backend systems @ Biometría Aplicada
+- Exploring: The Nature of Code in C# (physics → game mechanics)
+
+## Education
+- AI Diploma @ PUC Chile — completed 2025
+- BEng Automation & Robotics · Universidad Andrés Bello — 2019
+
+## Interests
+Physics · Game design · Sci-fi fiction · Backend architecture
+
+---
+📫 danielsalinasjo@gmail.com
