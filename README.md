@@ -4,7 +4,7 @@ Senior Backend Engineer · .NET · C#
 Santiago, Chile
 
 ## Stack
-- **Backend:** .NET 9 / ASP.NET Web API / Clean Architecture / NodeJS
+- **Backend:** .NET 10 / ASP.NET Web API / Clean Architecture / NodeJS
 - **DB:** SQL Server (performance tuning, stored procedures)
 - **Cloud:** AWS (Lambda, S3, DynamoDB) · Azure
 - **Integrations:** SAP RFC · REST APIs
